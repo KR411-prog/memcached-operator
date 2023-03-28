@@ -1,4 +1,4 @@
-module github.com/KR411-prog/memcached-operator.git
+module github.com/KR411-prog/memcached-operator
 
 go 1.19
 
